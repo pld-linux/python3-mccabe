@@ -8,7 +8,7 @@
 Summary:	McCabe checker, plugin for flake8
 Name:		python-%{module}
 Version:	0.2.1
-Release:	3
+Release:	4
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/m/mccabe/mccabe-%{version}.tar.gz
