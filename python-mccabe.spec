@@ -15,7 +15,7 @@ Source0:	https://pypi.python.org/packages/source/m/mccabe/mccabe-%{version}.tar.
 # Source0-md5:	5a3f3fa6a4bad126c88aaaa7dab682f5
 URL:		https://github.com/flintwork/mccabe
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 %if %{with python2}
 BuildRequires:	python-devel
 BuildRequires:	python-distribute
