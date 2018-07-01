@@ -9,7 +9,7 @@ Summary:	McCabe checker, plugin for flake8
 Summary(pl.UTF-8):	Wtyczka flake8 do sprawdzania złożoności McCabe'a
 Name:		python-%{module}
 Version:	0.6.1
-Release:	1
+Release:	2
 License:	Expat/MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/mccabe/
