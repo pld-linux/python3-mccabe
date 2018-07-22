@@ -12,7 +12,7 @@ Version:	0.6.1
 Release:	2
 License:	Expat/MIT
 Group:		Libraries/Python
-#Source0Download: https://pypi.python.org/simple/mccabe/
+#Source0Download: https://pypi.org/simple/mccabe/
 Source0:	https://files.pythonhosted.org/packages/source/m/mccabe/mccabe-%{version}.tar.gz
 # Source0-md5:	723df2f7b1737b8887475bac4c763e1e
 URL:		https://github.com/pycqa/mccabe
