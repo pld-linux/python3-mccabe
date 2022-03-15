@@ -64,6 +64,7 @@ Skrypt Neda do sprawdzania złożoności McCabe'a (cyklomatycznej).
 %py_build
 
 %if %{with tests}
+PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 \
 %{__python} -m pytest test_mccabe.py
 %endif
 %endif
@@ -72,6 +73,7 @@ Skrypt Neda do sprawdzania złożoności McCabe'a (cyklomatycznej).
 %py3_build
 
 %if %{with tests}
+PYTEST_DISABLE_PLUGIN_AUTOLOAD=1 \
 %{__python3} -m pytest test_mccabe.py
 %endif
 %endif
