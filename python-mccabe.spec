@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Wtyczka flake8 do sprawdzania złożoności McCabe'a
 Name:		python-%{module}
 # keep 0.6.x here for python2 support and flake8 compatibility
 Version:	0.6.1
-Release:	4
+Release:	5
 License:	Expat/MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/mccabe/
