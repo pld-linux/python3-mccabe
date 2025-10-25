@@ -35,7 +35,7 @@ BuildRequires:	python3-setuptools
 BuildRequires:	python3-pytest
 %endif
 %endif
-Requires:	python-modules >= 1:2.7
+Requires:	python3-modules >= 1:3.6
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
